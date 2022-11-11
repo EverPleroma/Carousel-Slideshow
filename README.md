@@ -9,9 +9,7 @@
 - when the next icon on the last image is clicked, it should show the first image.
 - when the previous icon on the first image is clicked, it should show the last image.
 
-  - Live Link :: [Go Live](https://everpleroma.github.io/carousel-slideshow/)
+  - Live Link :: [Go Live]( https://everpleroma.github.io/Carousel-Slideshow/)
 
-## Author: Charles Obimnaeto Egesionu ##
-
-## Connect with me: ##
+## Author: Sola-Kehinde Eniola Olutofarati ##
 
